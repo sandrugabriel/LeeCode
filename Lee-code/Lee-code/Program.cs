@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Lee_code;
+
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Solutii solutii = new Solutii();
+        solutii.solutia10();
+    }
+}
