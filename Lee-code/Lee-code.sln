@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lee-code", "Lee-code\Lee-co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tema2", "Tema2\Tema2.csproj", "{31A17736-D674-4433-A0B6-A5C9C2751E56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema3", "Tema3\Tema3.csproj", "{3BDCF929-F639-48AA-8A01-84412BA14DE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tema3", "Tema3\Tema3.csproj", "{3BDCF929-F639-48AA-8A01-84412BA14DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema4", "Tema4\Tema4.csproj", "{17CF8FA5-B588-49EE-AA93-4559556611E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{3BDCF929-F639-48AA-8A01-84412BA14DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BDCF929-F639-48AA-8A01-84412BA14DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BDCF929-F639-48AA-8A01-84412BA14DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CF8FA5-B588-49EE-AA93-4559556611E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CF8FA5-B588-49EE-AA93-4559556611E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CF8FA5-B588-49EE-AA93-4559556611E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CF8FA5-B588-49EE-AA93-4559556611E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
